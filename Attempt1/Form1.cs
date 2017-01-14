@@ -103,7 +103,6 @@ namespace Attempt1
             {
                 String message = String.Format("{0}", e.Message);
                 MessageBox.Show(message, "错误");
-                return;
             }
             #endregion
 
